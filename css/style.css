@@ -1,8 +1,8 @@
 .map {
-    position: static;
+    position: relative;
 }
 .map svg {
-    position: static;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
